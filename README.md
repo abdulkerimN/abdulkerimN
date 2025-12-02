@@ -19,7 +19,7 @@ Here, you’ll find my projects, experiments, and a bit of my coding journey.
 ## 🧠 Tech Stack
 
 **Languages**
-> 🐍 Python • ☕ Java • 💛 JavaScript • 🌐 HTML • 🎨 CSS 
+> 🐍 Python • 💛 JavaScript • 🌐 HTML • 🎨 CSS 
 
 **Frameworks & Tools**
 > ⚙️ Flask • ⚛️ React • 🟩 Node.js • 🚀 Express • 🔧 Git • 💻 VS Code
